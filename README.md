@@ -24,27 +24,27 @@ These artifacts are designed to show how AI systems can be evaluated, governed, 
 
 ## 📁 Repository Structure
 
-/AI-Governance-Portfolio
+AI-Governance-Portfolio
 │
-├── /Risk-Register
-│     ├── AI_Risk_Register.xlsx
-│     └── README.md
+├── Risk-Register
+│   ├── AI_Risk_Register.xlsx
+│   └── README.md
 │
-├── /SocioTechnical-Harm-Evaluation
-│     ├── Harm_Evaluation_Report.docx
-│     └── README.md
+├── SocioTechnical-Harm-Evaluation
+│   ├── Harm_Evaluation_Report.docx
+│   └── README.md
 │
-├── /Regression-Test-Suite
-│     ├── Regression_Test_Cases.xlsx
-│     └── README.md
+├── Regression-Test-Suite
+│   ├── Regression_Test_Cases.xlsx
+│   └── README.md
 │
-├── /Threat-Model
-│     ├── Governance_Threat_Model.md
-│     └── README.md
+├── Threat-Model
+│   ├── Governance_Threat_Model.md
+│   └── README.md
 │
-├── /Controls-and-Mitigation
-│     ├── Governance_Controls.md
-│     └── README.md
+├── Controls-and-Mitigation
+│   ├── Governance_Controls.md
+│   └── README.md
 │
 └── README.md   ← (this file)
 

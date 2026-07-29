@@ -24,6 +24,7 @@ These artifacts are designed to show how AI systems can be evaluated, governed, 
 
 ## 📁 Repository Structure
 
+```
 AI-Governance-Portfolio
 │
 ├── Risk-Register
@@ -47,6 +48,7 @@ AI-Governance-Portfolio
 │   └── README.md
 │
 └── README.md   ← (this file)
+```
 
 
 ## 🎯 Purpose of This Portfolio

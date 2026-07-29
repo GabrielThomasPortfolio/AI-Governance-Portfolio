@@ -32,7 +32,7 @@ AI-Governance-Portfolio
 │   └── README.md
 │
 ├── SocioTechnical-Harm-Evaluation
-│   ├── Harm_Evaluation_Report.docx
+│   ├── Harm_Evaluation_Report.pdf
 │   └── README.md
 │
 ├── Regression-Test-Suite
@@ -40,11 +40,11 @@ AI-Governance-Portfolio
 │   └── README.md
 │
 ├── Threat-Model
-│   ├── Governance_Threat_Model.md
+│   ├── Governance_Threat_Model.pdf
 │   └── README.md
 │
 ├── Controls-and-Mitigation
-│   ├── Governance_Controls.md
+│   ├── Governance_Controls.pdf
 │   └── README.md
 │
 └── README.md   ← (this file)

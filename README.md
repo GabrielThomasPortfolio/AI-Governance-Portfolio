@@ -1,6 +1,12 @@
 # AI Governance & Socio‑Technical Risk Portfolio  
 ### By Gabriel Thomas — AI Risk & Governance Architecture
 
+© 2026 Gabriel Thomas. All rights reserved.
+Unauthorized reproduction or reuse of these materials is prohibited.
+
+CC BY-NC-ND 4.0  
+Attribution + NonCommercial + NoDerivatives
+
 This repository contains a complete, end‑to‑end portfolio demonstrating practical AI Governance, AI Risk Architecture, and socio‑technical safety evaluation.  
 The artifacts reflect real analysis, structured reasoning, and governance‑layer design work aligned with ISO 42001 and the EU AI Act.
 
